@@ -15,8 +15,8 @@ Estudante de **Sistemas de Informação** no IF Sudeste de MG (4º período), ap
 * **Infraestrutura e Redes:** Redes FTTx/GPON, fibra óptica, configuração de roteadores, montagem e manutenção de computadores.
 * **Suporte e Operações:** Suporte Técnico N1, análise de backoffice, gestão de chamados e atendimento ao cliente.
 * **Engenharia e Modelagem:** Requisitos de software, Diagramas UML (Casos de Uso e Classes).
-* **Linguagens e Banco de Dados:** C, C++, Python, HTML, CSS e Conceitos Básicos de Banco de Dados.
-* **Ferramentas:** Git, GitHub, VS Code, Pacote Office e Excel avançado.
+* **Linguagens e Banco de Dados:** C, C++, HTML, CSS e Conceitos Básicos de Banco de Dados.
+* **Ferramentas:** Git, GitHub, VS Code, Pacote Office e Excel.
 
 ---
 
