@@ -6,7 +6,6 @@ Estudante de **Sistemas de Informação** no IF Sudeste de MG (4º período), ap
 
 ### 💻 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-marques-costa-970729282)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://joaovmarquesc.github.io](https://github.com/joaovmarquesc?tab=repositories))
 [![E-mail](https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorm122@outlook.com)
 
 ---
