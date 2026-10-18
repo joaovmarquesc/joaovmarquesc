@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Victor! 👋
 
-Estudante de **Sistemas de Informação** no IF Sudeste de MG (4º período), apaixonado por tecnologia, com sólida experiência prática em **Infraestrutura de TI, Redes, Suporte Técnico** e resolução de problemas. Busco oportunidades de estágio ou posição trainee onde eu possa aplicar minha bagagem operacional e continuar evoluindo na área de tecnologia.
+Estudante de **Sistemas de Informação** no IF Sudeste de MG (4º período), apaixonado por tecnologia, com experiência prática em Infraestrutura de TI, Redes, Suporte Técnico e resolução de problemas. Busco oportunidades de estágio ou posição trainee onde eu possa aplicar minha bagagem operacional e continuar evoluindo na área de tecnologia.
 
 ---
 
